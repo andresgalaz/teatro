@@ -1,0 +1,91 @@
+.clsDivNorth {
+    color: darkslateblue;
+    font-size: 18px;
+    padding: 5px;
+}
+
+td.excel div {
+    width: 40px;
+    height: 60px;
+    background-color: whitesmoke;
+    background-image: url(../img/microsoft_office_excel.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 38px 42px;
+}
+
+td.S_U div,
+td.S_V div,
+td.S_W div,
+td.S_X div,
+td.S_Y div,
+td.S_Z div {
+    width: 40px;
+    height: 60px;
+    background-color: whitesmoke;
+    background-image: url(../img/vacio.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 30px 38px;
+}
+
+td.S_Z div {
+    background-color: black;
+}
+
+td.S_A div,
+td.S_B div,
+td.S_C div,
+td.S_D div,
+td.S_E div,
+td.S_F div,
+td.S_G div,
+td.S_H div,
+td.S_I div,
+td.S_J div,
+td.S_K div,
+td.S_L div,
+td.S_M div,
+td.S_N div,
+td.S_O div,
+td.S_P div,
+td.S_Q div,
+td.S_R div {
+    width: 40px;
+    height: 60px;
+    background-color: #F4F4F4;
+    background-image: url(../img/sillonRed_ok.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 30px 38px;
+    color: sienna;
+    text-align: center;
+    font-size: 11px;
+    border: 1px solid #a1a1a1;
+    border-radius: 4px;
+}
+
+td.S_A div:hover,
+td.S_B div:hover,
+td.S_C div:hover,
+td.S_D div:hover,
+td.S_E div:hover,
+td.S_F div:hover,
+td.S_G div:hover,
+td.S_H div:hover,
+td.S_I div:hover,
+td.S_J div:hover,
+td.S_K div:hover,
+td.S_L div:hover,
+td.S_M div:hover,
+td.S_N div:hover,
+td.S_O div:hover,
+td.S_P div:hover,
+td.S_Q div:hover,
+td.S_R div:hover {
+    background-color: #999999;
+}
+
+td.ocupado div {
+    background-image: url(../img/sillon_ko.png);
+}

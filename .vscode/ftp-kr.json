@@ -1,0 +1,18 @@
+{
+    "host": "compustrom.com",
+    "username": "compustr",
+    "password": "25631621",
+    "remotePath": "public_html/teatro",
+    "protocol": "ftp",
+    "port": 0,
+    "fileNameEncoding": "utf8",
+    "autoUpload": true,
+    "autoDelete": false,
+    "autoDownload": true,
+    "logLevel": "NORMAL",
+    "blockDetectingDuration": 60000,
+    "ignore": [
+        ".git",
+        "/.vscode/"
+    ]
+}
